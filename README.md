@@ -60,7 +60,7 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chappiii&show_icons=true&theme=radical&locale=en&layout=compact" alt="chappiii" /></p> -->
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chappiii&theme=radical" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chappiii&theme=radical" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
