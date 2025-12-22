@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Kidus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Data Scientist</h3>
 
 <img align="right" width="250px" height="200px" alt="cmatrix_sticker" src="https://itsfoss.com/content/images/2023/10/Cmatrix.gif" />
 
-- 🌱 I’m currently learning **Machine learning and Deep learning**
+- 🎓 MSc in Computer Science at Blekinge Institute of Technology
 
-- 💬 Ask me about **React**
+- 🌱 I'm currently working and learning about **Graph RAGs**
 
 - 📫 How to reach me **chappi787@gmail.com**
 
