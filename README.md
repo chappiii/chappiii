@@ -5,7 +5,7 @@
 
 - 🎓 MSc in Computer Science at Blekinge Institute of Technology
 
-- 🌱 I'm currently working and learning about **Graph RAGs**
+- 🌱 I’m currently working on and learning about **Graph RAGs**.
 
 - 📫 How to reach me **chappi787@gmail.com**
 
