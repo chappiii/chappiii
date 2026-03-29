@@ -65,7 +65,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kidus-mikael-877b63235/" target="_blank">
+  <a href="https://www.linkedin.com/in/kidusmikael/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Kidus" height="30" width="40" />
   </a>
 </p>
