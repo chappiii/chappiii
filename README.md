@@ -24,7 +24,7 @@
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
     <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
     <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
-    <td><a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/></a></td>
+    <td><a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" alt="neo4j" height="30"/></a></td>
   </tr>
 </table>
 
